@@ -13,11 +13,11 @@ git clone git@github.com:xikito-ai/2DSeriousGames.git
 
 2. Open the project in Unity.
 
-Check that the player and build settings are correctly set. Some settings should be changed depending on whether your are using an Android or an iOS mobile device.
+3. Check that the player and build settings are correctly set. Some settings should be changed depending on whether your are using an Android or an iOS mobile device.
 
-3. Build and run the game. After a successful build the application should be installed on your connected mobile device.
+4. Build and run the game. After a successful build the application should be installed on your connected mobile device.
 
-4. Run the game: simply open the application on your mobile device and start playing!
+5. Run the game: simply open the application on your mobile device and start playing!
 
 
 ## Game Descriptions
