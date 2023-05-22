@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main/Scenes/MainMenu.unity
+    guid: ceda81dda30334a9892cb0728a2af4a4
+  - enabled: 1
+    path: Assets/AngryBirds/Scenes/Level 1.unity
+    guid: 7a8a5ed1e50ea4c8ca110aa5ab47d325
+  - enabled: 1
+    path: Assets/AngryBirds/Scenes/Level 2.unity
+    guid: e60887a9382cc4a9588fdfe026178ca4
+  - enabled: 1
+    path: Assets/AngryBirds/Scenes/Level 3.unity
+    guid: a9e8712df6c2a4307a790cfc084a6bf1
+  - enabled: 1
+    path: Assets/CandyCrush/Scenes/LevelSelect.unity
+    guid: 64784eb5bfbea694a817aed9a7911d18
+  - enabled: 1
+    path: Assets/CandyCrush/Scenes/FiberMoves.unity
+    guid: 6a52f3d3b147540a6a1c6b30f98774c2
+  - enabled: 1
+    path: Assets/CandyCrush/Scenes/FiberTimer.unity
+    guid: 770c6a34869a1409ab95c6bfa6e32fcc
+  m_configObjects: {}
